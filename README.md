@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-asdasa<br>asdadsa<br>sdas<br>dasda<br>dssad<br>asda
+Hello, I'm 20 years old, Venezolano, independent developer, I love to learn something new every day, future developer that will impact the world of programming
 
 
 ## 🌐 Socials:
