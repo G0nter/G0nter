@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-Hello, I'm 20 years old, Venezolano, independent developer, I love to learn something new every day, future developer that will impact the world of programming
+Hello, I'm 21 years old, Venezolano, independent developer, I love to learn something new every day, future developer that will impact the world of programming
 
 
 ## 🌐 Socials:
